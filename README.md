@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Enhanced Building Access Control using NFC Scanning<br>🌱 I’m currently pursuing a degree in Computer Engineering<br>My Repositories mostly contain sourcd files for college projrcts<br><br>
+🔭 I’m currently working on Enhanced Building Access Control using NFC Scanning<br>🌱 I’m currently pursuing a degree in Computer Engineering<br>My Repositories mostly contain source files for college projrcts<br><br>
 
 
 # 💻 Tech Stack:
