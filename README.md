@@ -1,15 +1,39 @@
-# 💫 About Me:
-🔭 I’m currently working on Enhanced Building Access Control using NFC Scanning<br>🌱 I’m currently pursuing a degree in Computer Engineering<br>My Repositories mostly contain source files for college projrcts<br><br>
+# [Your Name]
+
+## 👋 Hello, World!
+
+I'm a passionate Student pursuing studies in the field of computer science with a keen interest in Web Design and IOT Aspiring to create impactful and innovative solutions, I'm constantly exploring new avenues of learning and development.
+
+### 💼 Professional Background
+
+- Currently pursuing (BE) Computer Engineering at Vivekanand Education Society's Institute of Technology
+- Proficient in C programming, Python scripting, and Figma Design.
+- Experienced in Computer-Aided Design (CAD) software.
+
+### 🛠️ Technologies & Tools
+
+- Programming Languages: C, Python, Java
+- Web Technologies: HTML, CSS
 
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)    ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)  ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abhiq3a7r8&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhiq3a7r8&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiq3a7r8&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🌱 Currently Learning
 
----
+[What you're currently learning or interested in]
 
+### 📚 Featured Projects
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- [Project 1 Name](https://github.com/yourusername/project1)
+  - Brief description of the project and the technologies used.
+
+- [Project 2 Name](https://github.com/yourusername/project2)
+  - Brief description of the project and the technologies used.
+
+### 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+### 🎯 Goals
+
+[Your short-term or long-term goals related to your field]
+
+Feel free to connect, collaborate, or reach out if you're interested in [collaboration, networking, etc.].
