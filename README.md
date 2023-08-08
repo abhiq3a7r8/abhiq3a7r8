@@ -2,6 +2,8 @@
 
 ## 👋 Hello, World!
 
+![Animated GIF](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)
+
 I'm a passionate Student pursuing studies in the field of computer science with a keen interest in Web Design and IOT Aspiring to create impactful and innovative solutions, I'm constantly exploring new avenues of learning and development.
 
 ### 💼 Professional Background
