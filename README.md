@@ -1,4 +1,4 @@
-# [Your Name]
+# Abhirat More
 
 ## 👋 Hello, World!
 
@@ -18,22 +18,10 @@ I'm a passionate Student pursuing studies in the field of computer science with 
 
 ### 🌱 Currently Learning
 
-[What you're currently learning or interested in]
-
+Object Oriented Programming using JAVA
 ### 📚 Featured Projects
 
-- [Project 1 Name](https://github.com/yourusername/project1)
-  - Brief description of the project and the technologies used.
+- Arduino-Decibel-Traffic-Signal-Control()
+  - This Arduino Project creates a **Decibel-Triggered Traffic Signal Control System**. It dynamically adjusts signal timings based on noise levels to enhance traffic safety and efficiency. The system includes a countdown timer, adaptive LED signals, and interactive controls for reset. This project showcases the application of electronics in real-world traffic management scenarios.
 
-- [Project 2 Name](https://github.com/yourusername/project2)
-  - Brief description of the project and the technologies used.
 
-### 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-
-### 🎯 Goals
-
-[Your short-term or long-term goals related to your field]
-
-Feel free to connect, collaborate, or reach out if you're interested in [collaboration, networking, etc.].
